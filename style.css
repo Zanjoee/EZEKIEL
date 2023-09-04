@@ -1,0 +1,94 @@
+body {
+    font-family: cursive;
+    background: linear-gradient(whitesmoke, cyan);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 15px;
+}
+
+header {
+    background-color: cyan;
+    color: black;
+    text-align: center;
+    padding: 2px;
+    border: 1px solid;
+    border-radius: 5px;
+    font-family: Georgia, sans-serif;
+    font-weight:bold;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 17px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1, h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    color: black;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: Georgia, sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#vision {
+    max-width: 800px;
+    margin: 15px auto;
+    padding: 15px;
+    background-color: lightgreen;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+#ez{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 17px;
+    background-color: lightcoral;
+    border-radius: 7px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align:center; 
+    font-family: georgia, sans-serif;
+    color:white;
+    font-weight:bold;
+}
+#mission {
+    max-width: 800px;
+    margin: 15px auto;
+    padding: 15px;
+    background-color: blue;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+.quote {
+    max-width: 800px;
+    margin: 15px auto;
+    background-color: violet;
+    padding:21px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: white;
+}
