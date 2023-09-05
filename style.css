@@ -22,8 +22,11 @@ header {
 
 /* Style the logo */
 .logo img {
-    max-width:70px;
-    background-color:#fff;/* Adjust the height as needed */
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin:0 auto;
+   /* Adjust the height as needed */
 }
 
 /* Style the navigation links */
@@ -139,4 +142,7 @@ img {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     text-align:center;
-}        
+}
+        .logo{
+            background-color:#222422;
+        }
